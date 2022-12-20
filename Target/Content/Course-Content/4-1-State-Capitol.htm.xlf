@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="4-1-State-Capitol.htm"
@@ -49,21 +49,21 @@
             mtype="seg"
             mid="1"
             comment="img">State Capitol</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Repetition"
+            MadCap:matchPercent="100">dfdf+</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>State Capitol</source><seg-source><mrk
             mtype="seg"
             mid="1">State Capitol</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">dfdf+</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>The Texas State Capitol was finished in 1888. It boasts 22 acres with numerous monuments. These include the Texas African History Memorial, the Vietnam Way monument, and miniature Statue of Liberty.</source><seg-source><mrk
